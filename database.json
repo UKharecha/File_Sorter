@@ -1,0 +1,64 @@
+{
+  "type": {
+    "Image": [
+      "jpg",
+      "jpeg",
+      "png",
+      "gif"
+    ],
+    "Video": [
+      "mkv",
+      "flv",
+      "avi",
+      "wmv",
+      "mp4",
+      "mov"
+    ],
+    "Audio": [
+      "mp3",
+      "wav",
+      "aac",
+      "aiff",
+      "alac",
+      "ogg",
+      "raw",
+      "wma",
+      "m4a"
+    ],
+    "Programming": [
+      "py",
+      "js",
+      "c",
+      "cpp",
+      "h",
+      "go",
+      "r"
+    ],
+    "Document": [
+      "pdf",
+      "doc",
+      "docx",
+      "txt",
+      "xls",
+      "xlsm",
+      "xlsx",
+      "xml",
+      "csv",
+      "ipynb"
+    ],
+    "Compressed": [
+      "zip",
+      "rar",
+      "7z",
+      "arj",
+      "pkg",
+      "rpm",
+      "gz",
+      "z"
+    ],
+    "Executable": [
+      "exe"
+    ]
+  }
+
+}
